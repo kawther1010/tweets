@@ -27,6 +27,9 @@ In the digital age, understanding the semantic similarity between tweets has bec
 
 ## Usage
 1. Clone the repository:
+## Clone the repository
+
+```bash
 git clone https://github.com/kawther1010/tweets.git
 
 
