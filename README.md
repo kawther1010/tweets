@@ -27,7 +27,8 @@ In the digital age, understanding the semantic similarity between tweets has bec
 
 ## Usage
 1. Clone the repository:
-git clone https://github.com/kawther1010/tweets.git
+git clone <repository_url>
+
 2. Install required packages:
 
 3. Open and run `main.ipynb` in Jupyter Notebook or any Python environment.
