@@ -33,9 +33,9 @@ In the digital age, understanding the semantic similarity between tweets has bec
 3. Open and run `main.ipynb` in Jupyter Notebook or any Python environment.
 
 ## Results
-- Precision: 
-- Recall: 
-- F1 Score: 
+- Precision: 0.6
+- Recall: 0.5
+- F1 Score: 0.5454545454545454
 
 ## Conclusion
 This project successfully develops a model for tweet similarity analysis using transformer embeddings. By leveraging transformer-based architectures and distance calculations, the model demonstrates promising results in identifying semantically similar tweets. The insights gained from this project can be valuable for various applications in social media analytics and natural language processing.
